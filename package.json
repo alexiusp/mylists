@@ -1,0 +1,25 @@
+{
+  "name": "mylists",
+  "version": "1.0.0",
+  "description": "Simple lists application (ToDo, shopping etc.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexiusp/mylists.git"
+  },
+  "keywords": [
+    "todo",
+    "ionic",
+    "angular",
+    "js"
+  ],
+  "author": "Aleksei \"AlexiuS\" Podgaev",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/alexiusp/mylists/issues"
+  },
+  "homepage": "https://github.com/alexiusp/mylists#readme"
+}
