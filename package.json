@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/alexiusp/mylists/issues"
   },
-  "homepage": "https://github.com/alexiusp/mylists#readme"
+  "homepage": "https://github.com/alexiusp/mylists#readme",
+  "dependencies": {
+    "cordova": "^6.0.0",
+    "ionic": "^1.7.14"
+  }
 }
