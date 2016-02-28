@@ -24,6 +24,7 @@
   "homepage": "https://github.com/alexiusp/mylists#readme",
   "dependencies": {
     "cordova": "^6.0.0",
+    "express": "^4.13.4",
     "ionic": "^1.7.14"
   }
 }
