@@ -1,0 +1,13 @@
+<ion-view view-title="Home">
+  <ion-content>
+		<ion-list>
+			<ion-item ng-repeat="list in lists" class="item-remove-animate item-icon-right" type="item-text-wrap" >
+				<h2>{{list.name}}</h2>
+				<p ng-if="!!list.description">{{list.description}}</p>
+				<i class="icon ion-chevron-right icon-accessory"></i>
+				<ion-option-button class="button-assertive icon-left ion-trash-a" ng-click="remove(list.id)">Delete
+    		</ion-option-button>
+			</ion-item>
+		</ion-list>
+  </ion-content>
+</ion-view>
